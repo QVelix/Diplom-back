@@ -1,0 +1,11 @@
+# Default ignored files
+Diplom/shelf/
+Diplom/workspace.xml
+# Editor-based HTTP Client requests
+/DiplomhttpRequests/
+# Datasource local storage ignored files
+Diplom/dataSources/
+Diplom/dataSources.local.xml
+Diplom/obj/
+Diplom/bin/
+.idea
